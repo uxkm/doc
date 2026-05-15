@@ -1,0 +1,1 @@
+import{n as e}from"./editor-vendor-NExbC2Bo.js";var t=e();function n(){return(0,t.jsxs)(`ul`,{className:`top_info`,children:[(0,t.jsx)(`li`,{children:`CSS3 기준으로 작성하며, Deprecated(더 이상 사용되지 않는) 요소나 속성은 제외합니다.`}),(0,t.jsx)(`li`,{children:`CSS의 개념을 이해하고, CSS의 기본적인 문법을 학습합니다.`}),(0,t.jsx)(`li`,{children:`스타일 시트를 사용하여 어떠한 방식으로 HTML 요소를 시각적으로 표현하는지 알아봅니다.`})]})}export{n as default};

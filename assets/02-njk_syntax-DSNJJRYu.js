@@ -1,0 +1,1 @@
+import{n as e}from"./editor-vendor-NExbC2Bo.js";var t=e();function n(){return(0,t.jsx)(t.Fragment,{children:(0,t.jsx)(`blockquote`,{className:`uk_note mt_xxl`,role:`note`,children:(0,t.jsx)(`p`,{children:`기존 Nunjucks 문서를 React 페이지로 이관한 기본 파일입니다.`})})})}export{n as default};

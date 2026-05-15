@@ -1,0 +1,36 @@
+import{r as e}from"./rolldown-runtime-BYbx6iT9.js";import{n as t}from"./editor-vendor-NExbC2Bo.js";import{n}from"./PageMeta-CwOXcC1J.js";import{t as r}from"./path-BMcoVFKm.js";import{t as i}from"./CodeBlock-LqoApAt5.js";var a=e({default:()=>l}),o=t(),s={mainClass:`aside_element`,type:`publishing`,info:!0,note:!0,sideMenu:!0,reference:!0,contentList:!1,bottomEditor:!0},c={title:`aside element`,description:`aside 요소는 문서의 주요 내용과 직접적인 연관은 없지만, 보조적인 정보나 참고 자료를 제공하는 HTML 태그로, 광고, 관련 링크, 인용문, 사이드바 등 주 콘텐츠를 보완하거나 주변 정보를 제공하는 영역에 사용됩니다. 이 페이지에서는 aside 요소의 주요 역할 및 특징을 설명하고, aside 요소의 용도와 구조적 위치에 따른 사용 예시를 소개합니다.`,keyword:`Markup, HTML, HTML5, tag, elements, aside`};function l(){return n({...c,layout:s}),(0,o.jsxs)(o.Fragment,{children:[(0,o.jsxs)(`blockquote`,{className:`uk_note mt_xxl`,role:`note`,children:[(0,o.jsx)(`strong`,{className:`sound_only`,children:`요약 설명`}),(0,o.jsxs)(`p`,{children:[(0,o.jsx)(`code`,{children:`<aside>`}),` 요소는`,` `,(0,o.jsx)(`b`,{children:`문서의 주요 흐름과는 직접적으로 관련되지 않은 보조 콘텐츠를 나타내는 시맨틱 태그`}),`로, 광고, 관련 링크, 사이드바, 팁, 인용문 등과 같이`,` `,(0,o.jsx)(`b`,{children:`부가적인 정보나 참고 자료를 담는 데 사용`}),`됩니다.`,(0,o.jsx)(`br`,{}),`문서 전체의 부가정보일 수도 있고, 특정 섹션이나 기사(`,(0,o.jsx)(`code`,{children:`<section>`}),`, `,(0,o.jsx)(`code`,{children:`<article>`}),`) 내부의 보조 내용일 수도 있습니다.`,(0,o.jsx)(`br`,{}),`주요 콘텐츠와는 독립적으로 존재하며, 화면상에서는 주로 좌우 측면에 배치되는 경우가 많습니다.`]})]}),(0,o.jsxs)(`section`,{className:`indent mt_xxl`,children:[(0,o.jsx)(`h2`,{className:`ml_mn`,"data-conlist":`false`,children:`주요 역할 및 특징`}),(0,o.jsxs)(`ol`,{className:`mt_l ol_lst info_lst gap-column-important-m`,children:[(0,o.jsxs)(`li`,{className:`weight-600-before t_black_before`,children:[(0,o.jsx)(`strong`,{children:`부가 정보 제공`}),(0,o.jsxs)(`ul`,{className:`dot_lst`,children:[(0,o.jsxs)(`li`,{children:[(0,o.jsx)(`code`,{children:`<aside>`}),`는 주요 콘텐츠를 보완하거나 간접적으로 관련된 정보를 제공합니다.`]}),(0,o.jsx)(`li`,{children:`예를 들어 기사 본문에 대한 추가 설명, 인용문, 링크 목록, 광고 등이 포함될 수 있습니다.`})]})]}),(0,o.jsxs)(`li`,{className:`weight-600-before t_black_before`,children:[(0,o.jsx)(`strong`,{children:`문서 구조의 명확화`}),(0,o.jsxs)(`ul`,{className:`dot_lst`,children:[(0,o.jsx)(`li`,{children:`의미론적으로 주 콘텐츠와 보조 콘텐츠를 구분하여 구조를 명확히 정의합니다.`}),(0,o.jsx)(`li`,{children:`검색 엔진과 스크린 리더가 콘텐츠의 목적을 이해하기 쉽게 만듭니다.`})]})]}),(0,o.jsxs)(`li`,{className:`weight-600-before t_black_before`,children:[(0,o.jsx)(`strong`,{children:`위치에 관계없는 사용`}),(0,o.jsxs)(`ul`,{className:`dot_lst`,children:[(0,o.jsxs)(`li`,{children:[(0,o.jsx)(`code`,{children:`<aside>`}),`는 항상 페이지의 한쪽에 위치할 필요는 없으며, 문서 구조에 따라 배치됩니다.`]}),(0,o.jsx)(`li`,{children:`문서의 주요 흐름을 방해하지 않고 부가 정보를 제공하는 역할을 합니다.`})]})]}),(0,o.jsxs)(`li`,{className:`weight-600-before t_black_before`,children:[(0,o.jsx)(`strong`,{children:`SEO 및 접근성`}),(0,o.jsxs)(`ul`,{className:`dot_lst`,children:[(0,o.jsxs)(`li`,{children:[`검색 엔진은 `,(0,o.jsx)(`code`,{children:`<aside>`}),`의 내용을 부가 정보로 간주하므로, 보조적인 내용이나 관련 링크에 적합합니다.`]}),(0,o.jsxs)(`li`,{children:[`접근성을 위해 `,(0,o.jsx)(`code`,{children:`<aria-label>`}),`이나`,` `,(0,o.jsx)(`code`,{children:`<aria-labelledby>`}),`를 사용하여 보조 콘텐츠의 목적을 명확히 설명할 수 있습니다.`]})]})]})]})]}),(0,o.jsxs)(`section`,{className:`indent mt_xxl`,children:[(0,o.jsx)(`h2`,{className:`ml_mn`,"data-conlist":`false`,children:`CSS 기본 값`}),(0,o.jsxs)(`p`,{className:`mt_l`,children:[(0,o.jsx)(`code`,{children:`<aside>`}),` 요소는 기본적으로 블록 레벨 요소입니다.`]}),(0,o.jsx)(i,{title:`aside element CSS`,className:`mt_m`,language:`css`,children:`aside {
+  display: block;
+}`})]}),(0,o.jsxs)(`section`,{className:`indent mt_xxl`,children:[(0,o.jsx)(`h2`,{className:`ml_mn`,"data-conlist":`false`,children:`기본 문법`}),(0,o.jsx)(i,{title:`aside element syntax`,className:`mt_l`,language:`html`,children:`<aside>
+  <!-- 부가적인 콘텐츠 -->
+</aside>`})]}),(0,o.jsxs)(`section`,{className:`indent mt_xxl`,children:[(0,o.jsx)(`h2`,{className:`ml_mn`,"data-conlist":`false`,children:`속성`}),(0,o.jsxs)(`p`,{className:`mt_l`,children:[(0,o.jsx)(`code`,{children:`<aside>`}),` 요소는 `,(0,o.jsx)(`b`,{className:`t_black`,children:`고유 속성`}),`을 가지지 않으며,`,` `,(0,o.jsxs)(`mark`,{children:[`글로벌 속성(`,(0,o.jsx)(`code`,{children:`class`}),`, `,(0,o.jsx)(`code`,{children:`id`}),`, `,(0,o.jsx)(`code`,{children:`style`}),`,`,` `,(0,o.jsx)(`code`,{children:`aria-*`}),`, `,(0,o.jsx)(`code`,{children:`data-*`}),` 등)만 사용할 수 있습니다.`]})]}),(0,o.jsx)(i,{title:`aside element attr`,className:`mt_m`,language:`html`,children:`<aside class="sidebar" role="complementary">
+  <!-- 부가적인 콘텐츠 -->
+</aside>`})]}),(0,o.jsxs)(`section`,{className:`view_editor indent mt_xxl`,children:[(0,o.jsx)(`h2`,{className:`ml_mn ve_tit`,children:`예제`}),(0,o.jsxs)(`article`,{className:`mt_l indent`,children:[(0,o.jsx)(`h3`,{className:`ml_mn`,children:`블로그의 사이드바로 사용`}),(0,o.jsx)(i,{title:`sidebar`,className:`mt_m`,language:`html`,children:`<aside>
+  <h3>관련 글</h3>
+  <ul>
+    <li><a href="#">HTML의 기본</a></li>
+    <li><a href="#">CSS로 레이아웃 구성하기</a></li>
+    <li><a href="#">JavaScript 기초</a></li>
+  </ul>
+</aside>`})]}),(0,o.jsxs)(`article`,{className:`mt_xl indent`,children:[(0,o.jsx)(`h3`,{className:`ml_mn`,children:`문서 내부 보조 정보`}),(0,o.jsx)(i,{title:`supplementary information`,className:`mt_m`,language:`html`,children:`<article>
+  <h1>HTML의 의미론적 태그</h1>
+  <p>HTML5는 의미론적 태그를 도입하여 문서 구조를 더욱 명확히 했습니다.</p>
+  <aside>
+    <h2>참고</h2>
+    <p>HTML5의 의미론적 태그에는 \`<header>\`, \`<footer>\`, \`<article>\` 등이 포함됩니다.</p>
+  </aside>
+</article>`})]}),(0,o.jsxs)(`article`,{className:`mt_xl indent`,children:[(0,o.jsx)(`h3`,{className:`ml_mn`,children:`광고 영역으로 활용`}),(0,o.jsx)(i,{title:`ad aside`,className:`mt_m`,language:`html`,children:`<aside>
+  <h2>광고</h2>
+  <a href="/product">
+    <img src="/ads/product.jpg" alt="최신 제품 광고">
+  </a>
+</aside>`})]}),(0,o.jsxs)(`article`,{className:`mt_xl indent`,children:[(0,o.jsx)(`h3`,{className:`ml_mn`,children:`뉴스 페이지에서 관련 기사 표시`}),(0,o.jsx)(i,{title:`related article`,className:`mt_m`,language:`html`,children:`<aside>
+  <h3>관련 기사</h3>
+  <ul>
+    <li><a href="#">기술 산업의 새로운 변화</a></li>
+    <li><a href="#">AI 기술의 미래</a></li>
+    <li><a href="#">웹 개발에서의 최신 트렌드</a></li>
+  </ul>
+</aside>`})]}),(0,o.jsxs)(`article`,{className:`mt_xl indent`,children:[(0,o.jsx)(`h3`,{className:`ml_mn`,children:`접근성을 고려한 보조 콘텐츠`}),(0,o.jsx)(i,{title:`a11y aside`,className:`mt_m`,language:`html`,children:`<aside aria-labelledby="aside-title">
+  <h2 id="aside-title">추가 정보</h2>
+  <p>이 글에 대한 더 많은 정보를 원하시면 <a href="/details">여기를 클릭하세요</a>.</p>
+</aside>`})]})]}),(0,o.jsx)(`aside`,{className:`browser_support mt_xxl`,"data-tit":`aside`,children:(0,o.jsxs)(`ul`,{children:[(0,o.jsx)(`li`,{className:`ie`,children:`9+`}),(0,o.jsx)(`li`,{className:`edge`,children:`지원`}),(0,o.jsx)(`li`,{className:`chrome`,children:`5.0`}),(0,o.jsx)(`li`,{className:`firefox`,children:`4.0`}),(0,o.jsx)(`li`,{className:`opera`,children:`11.1`}),(0,o.jsx)(`li`,{className:`safari`,children:`4.1`})]})}),(0,o.jsxs)(`figure`,{className:`img_figure mt_l`,children:[(0,o.jsx)(`img`,{src:`${r.HTML}/03_html_07.png`,alt:`aside 요소`}),(0,o.jsx)(`figcaption`,{children:`aside 요소`})]})]})}export{l as default,a as t};

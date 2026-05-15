@@ -1,0 +1,1 @@
+var e={HTML:`/images/html`,CSS:`/images/css`,SCSS:`/images/scss`,GULP:`/images/gulp`,ACCESSIBILITY:`/images/accessibility`};export{e as t};

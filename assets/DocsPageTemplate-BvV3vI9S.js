@@ -1,0 +1,1 @@
+import{n as e}from"./editor-vendor-NExbC2Bo.js";import{t}from"./PageMeta-CwOXcC1J.js";var n=e();function r({summary:e,children:r,meta:i}){return(0,n.jsxs)(`article`,{className:`indent`,children:[i?(0,n.jsx)(t,{...i}):null,e?(0,n.jsx)(`blockquote`,{className:`uk_note mt_xxl`,role:`note`,children:(0,n.jsx)(`p`,{children:e})}):null,r]})}export{r as t};

@@ -1,0 +1,47 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/UkEditorTarget-l5hRlR5z.js","assets/rolldown-runtime-BYbx6iT9.js","assets/editor-vendor-NExbC2Bo.js","assets/codemirror-core-CkCySbCA.js","assets/UkEditor-Cr7XGSuW.js","assets/index-Ct-ny9pw.js","assets/preload-helper-D4M6sveU.js","assets/index-Cb3hFvjC.css","assets/codemirror-lang-css-GO1v0Ny7.js","assets/codemirror-lang-html-DqXYJsFa.js","assets/codeFormatting-B_7kx6CT.js"])))=>i.map(i=>d[i]);
+import{a as e,r as t}from"./rolldown-runtime-BYbx6iT9.js";import{n,r}from"./editor-vendor-NExbC2Bo.js";import{t as i}from"./preload-helper-D4M6sveU.js";import{n as a}from"./PageMeta-CwOXcC1J.js";import{t as o}from"./path-BMcoVFKm.js";import{t as s}from"./CodeBlock-LqoApAt5.js";var c=t({default:()=>h}),l=e(r(),1),u=n(),d={mainClass:`dl_element`,type:`publishing`,info:!0,note:!0,sideMenu:!0,reference:!0,contentList:!0,bottomEditor:!0},f={title:`dl element`,description:`dl 요소는 HTML 문서에서 용어와 그에 대한 설명을 짝지어 나열하는 정의 목록(description list)을 나타내는 태그로, 내부에는 용어를 나타내는 dt 요소와 해당 용어의 설명을 담는 dd 요소가 쌍을 이루어 배치됩니다. 이 페이지에서는 dl 요소의 주요 역할 및 특징을 설명하고, dl 요소의 용도와 구조적 위치에 따른 사용 예시를 소개합니다.`,keyword:`Markup, HTML, tag, elements, dl, definition list, 정의 목록`},p=(0,l.lazy)(()=>i(()=>import(`./UkEditorTarget-l5hRlR5z.js`),__vite__mapDeps([0,1,2,3,4,5,6,7,8,9,10])));function m(){return(0,u.jsx)(`div`,{className:`uk_editor min_height_300`,"aria-hidden":!0})}function h(){return a({...f,layout:d}),(0,u.jsxs)(u.Fragment,{children:[(0,u.jsxs)(`blockquote`,{className:`uk_note mt_xxl`,role:`note`,children:[(0,u.jsx)(`strong`,{className:`sound_only`,children:`요약 설명`}),(0,u.jsxs)(`p`,{children:[(0,u.jsx)(`code`,{children:`<dl>`}),` 요소는`,` `,(0,u.jsx)(`strong`,{children:`정의 목록(description list)`}),`을 나타내는 시맨틱 태그로, 용어와 그에 대한 설명 쌍을 나열할 때 사용됩니다.`,(0,u.jsx)(`br`,{}),(0,u.jsx)(`code`,{children:`<dt>`}),` 요소로 용어를 정의하고,`,` `,(0,u.jsx)(`code`,{children:`<dd>`}),` 요소로 해당 용어의 설명을 제공합니다.`,(0,u.jsx)(`br`,{}),`일반적인 목록(`,(0,u.jsx)(`code`,{children:`<ul>`}),`, `,(0,u.jsx)(`code`,{children:`<ol>`}),`)과 달리`,` `,(0,u.jsx)(`b`,{children:`용어(key)-설명(value) 구조를 표현할 때 적합`}),`하며, 사전, FAQ, 용어 설명 등의 콘텐츠에 자주 활용됩니다.`]})]}),(0,u.jsxs)(`section`,{className:`indent mt_xxl`,children:[(0,u.jsx)(`h2`,{className:`ml_mn`,"data-conlist":`false`,children:`주요 역할 및 특징`}),(0,u.jsxs)(`ol`,{className:`mt_l ol_lst info_lst gap-column-important-m`,children:[(0,u.jsxs)(`li`,{className:`weight-600-before t_black_before`,children:[(0,u.jsx)(`strong`,{children:`정의 목록 표현`}),(0,u.jsxs)(`ul`,{className:`dot_lst`,children:[(0,u.jsx)(`li`,{children:`용어와 그에 대한 설명을 구조적으로 나열할 때 사용됩니다.`}),(0,u.jsx)(`li`,{children:`예: 용어 사전, FAQ, 키-값 쌍 등.`})]})]}),(0,u.jsxs)(`li`,{className:`weight-600-before t_black_before`,children:[(0,u.jsx)(`strong`,{children:`유연한 목록 구성`}),(0,u.jsxs)(`ul`,{className:`dot_lst`,children:[(0,u.jsxs)(`li`,{children:[`하나의 `,(0,u.jsx)(`code`,{children:`<dt>`}),`에 여러 `,(0,u.jsx)(`code`,{children:`<dd>`}),`를 매칭하거나, 여러 `,(0,u.jsx)(`code`,{children:`<dt>`}),`를 하나의`,` `,(0,u.jsx)(`code`,{children:`<dd>`}),`에 연결할 수 있습니다.`,(0,u.jsx)(`br`,{}),`예: 용어 하나에 여러 설명이 필요한 경우 또는 여러 용어가 동일한 설명을 공유하는 경우.`]}),(0,u.jsxs)(`li`,{children:[(0,u.jsx)(`code`,{children:`<dd>`}),`에는 텍스트뿐 아니라 이미지, 리스트, 링크도 포함할 수 있습니다.`]})]})]}),(0,u.jsxs)(`li`,{className:`weight-600-before t_black_before`,children:[(0,u.jsx)(`strong`,{children:`다른 목록 요소와의 차이`}),(0,u.jsxs)(`p`,{children:[(0,u.jsx)(`code`,{children:`<ul>`}),`과 `,(0,u.jsx)(`code`,{children:`<ol>`}),`은 항목 나열에 사용되지만, `,(0,u.jsx)(`code`,{children:`<dl>`}),`은 용어와 그 설명을 정의하는 데 특화되어 있습니다.`]})]})]})]}),(0,u.jsxs)(`section`,{className:`indent mt_xxl`,children:[(0,u.jsx)(`h2`,{className:`ml_mn`,"data-conlist":`false`,children:`CSS 기본 값`}),(0,u.jsxs)(`p`,{className:`mt_l`,children:[(0,u.jsx)(`code`,{children:`<dl>`}),` 요소는 기본적으로 블록 레벨 요소이며 아래와 같은 기본값이 적용됩니다.`]}),(0,u.jsx)(s,{title:`dl element CSS`,className:`mt_m`,language:`css`,children:`dl {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+}`})]}),(0,u.jsxs)(`section`,{className:`indent mt_xxl`,children:[(0,u.jsx)(`h2`,{className:`ml_mn`,"data-conlist":`false`,children:`기본 문법`}),(0,u.jsx)(s,{title:`dl element syntax`,className:`mt_l`,language:`html`,children:`<dl>
+  <dt>용어 1</dt>
+  <dd>용어 1에 대한 설명</dd>
+  <dt>용어 2</dt>
+  <dd>용어 2에 대한 설명</dd>
+</dl>`})]}),(0,u.jsxs)(`section`,{className:`indent mt_xxl`,children:[(0,u.jsx)(`h2`,{className:`ml_mn`,"data-conlist":`false`,children:`속성`}),(0,u.jsxs)(`p`,{className:`mt_l`,children:[(0,u.jsx)(`code`,{children:`<dl>`}),` 요소는 `,(0,u.jsx)(`b`,{className:`t_black`,children:`고유 속성`}),`을 가지지 않으며, `,(0,u.jsx)(`mark`,{children:`글로벌 속성`}),`(`,(0,u.jsx)(`code`,{children:`class`}),`,`,` `,(0,u.jsx)(`code`,{children:`id`}),`, `,(0,u.jsx)(`code`,{children:`style`}),`, `,(0,u.jsx)(`code`,{children:`aria-*`}),`,`,` `,(0,u.jsx)(`code`,{children:`data-*`}),` 등)만 사용할 수 있습니다.`]}),(0,u.jsx)(s,{title:`dl element attr`,className:`mt_m`,language:`html`,children:`<!-- 속성 -->
+<dl id="description-list" class="description-list" aria-labelledby="용어에 대한 설명">
+  <dt>용어</dt>
+  <dd>용어에 대한 설명</dd>
+</dl>`})]}),(0,u.jsxs)(`section`,{className:`view_editor indent mt_xxl`,children:[(0,u.jsx)(`h2`,{className:`ml_mn ve_tit`,children:`예제`}),(0,u.jsxs)(`article`,{className:`mt_l indent`,children:[(0,u.jsx)(`h3`,{className:`ml_mn`,children:`기본 정의 목록`}),(0,u.jsx)(`div`,{className:`view_editor edit_code mt_m`,children:(0,u.jsx)(l.Suspense,{fallback:(0,u.jsx)(m,{}),children:(0,u.jsx)(p,{target:`html/04-grouping/4.6.dl_element/4.6.dl_element.html`,className:`min_height_300 mb_result_height_260`,mode:`htmlmixed`,browser:`default`,theme:`ayu-mirage`,title:`기본 정의 목록`,minHeight:`300px`,result:!0})})})]}),(0,u.jsxs)(`article`,{className:`mt_xl indent`,children:[(0,u.jsx)(`h3`,{className:`ml_mn`,children:`하나의 용어에 여러 설명`}),(0,u.jsx)(`div`,{className:`view_editor edit_code mt_m`,children:(0,u.jsx)(l.Suspense,{fallback:(0,u.jsx)(m,{}),children:(0,u.jsx)(p,{target:`html/04-grouping/4.6.dl_element/4.6.dl_element2.html`,className:`min_height_300 mb_result_height_230`,mode:`htmlmixed`,browser:`default`,theme:`ayu-mirage`,title:`하나의 용어에 여러 설명`,minHeight:`300px`,result:!0})})})]}),(0,u.jsxs)(`article`,{className:`mt_xl indent`,children:[(0,u.jsx)(`h3`,{className:`ml_mn`,children:`여러 용어에 하나의 설명`}),(0,u.jsx)(`div`,{className:`view_editor edit_code mt_m`,children:(0,u.jsx)(l.Suspense,{fallback:(0,u.jsx)(m,{}),children:(0,u.jsx)(p,{target:`html/04-grouping/4.6.dl_element/4.6.dl_element3.html`,className:`min_height_300 mb_result_height_230`,mode:`htmlmixed`,browser:`default`,theme:`ayu-mirage`,title:`여러 용어에 하나의 설명`,minHeight:`300px`,result:!0})})})]}),(0,u.jsxs)(`article`,{className:`mt_xl indent`,children:[(0,u.jsx)(`h3`,{className:`ml_mn`,children:`중첩된 설명 목록`}),(0,u.jsx)(s,{title:`중첩된 설명 목록`,className:`mt_m`,language:`html`,children:`<dl>
+  <dt>웹 기술</dt>
+  <dd>
+    <dl>
+      <dt>HTML</dt>
+      <dd>구조를 정의하는 언어</dd>
+      <dt>CSS</dt>
+      <dd>스타일을 정의하는 언어</dd>
+    </dl>
+  </dd>
+</dl>`})]}),(0,u.jsxs)(`article`,{className:`mt_xl indent`,children:[(0,u.jsx)(`h3`,{className:`ml_mn`,children:`설명에 이미지와 링크 포함`}),(0,u.jsx)(s,{title:`설명에 이미지와 링크 포함`,className:`mt_m`,language:`html`,children:`<dl>
+  <dt>React</dt>
+  <dd>
+    React는 사용자 인터페이스를 구축하기 위한 JavaScript 라이브러리입니다.<br>
+    <a href="https://reactjs.org/">공식 웹사이트</a>
+  </dd>
+  <!-- // React -->
+
+  <dt>Vue</dt>
+  <dd>
+    Vue는 점진적으로 채택할 수 있는 JavaScript 프레임워크입니다.<br>
+    <img src="vue-logo.png" alt="Vue 로고">
+  </dd>
+  <!-- // Vue -->
+</dl>`})]}),(0,u.jsxs)(`article`,{className:`mt_xl indent`,children:[(0,u.jsx)(`h3`,{className:`ml_mn`,children:`dl을 활용한 FAQ`}),(0,u.jsx)(`div`,{className:`view_editor edit_code mt_m`,children:(0,u.jsx)(l.Suspense,{fallback:(0,u.jsx)(m,{}),children:(0,u.jsx)(p,{target:`html/04-grouping/4.6.dl_element/4.6.dl_element_faq.html`,className:`min_height_500 mb_result_height_440`,mode:`htmlmixed`,browser:`default`,theme:`ayu-mirage`,title:`dl을 활용한 FAQ`,minHeight:`500px`,result:!0})})})]}),(0,u.jsxs)(`article`,{className:`mt_xl indent`,children:[(0,u.jsx)(`h3`,{className:`ml_mn`,children:`접근성을 고려한 정의 목록`}),(0,u.jsx)(s,{title:`접근성을 고려한 정의 목록`,className:`mt_m`,language:`html`,children:`<section aria-labelledby="glossary-title">
+  <h2 id="glossary-title">용어 사전</h2>
+  <dl>
+    <dt>ARIA</dt>
+    <dd>웹 접근성을 개선하기 위한 스펙입니다.</dd>
+    <dt>WCAG</dt>
+    <dd>웹 콘텐츠 접근성 지침을 의미합니다.</dd>
+  </dl>
+</section>`})]})]}),(0,u.jsxs)(`section`,{className:`indent mt_xxl`,children:[(0,u.jsx)(`h2`,{className:`ml_mn`,"data-conlist":`false`,children:`주의사항`}),(0,u.jsxs)(`ul`,{className:`dot_lst mt_l`,children:[(0,u.jsxs)(`li`,{children:[(0,u.jsx)(`code`,{children:`<dl>`}),` 요소의 직계 자식으로는 반드시`,` `,(0,u.jsx)(`code`,{children:`<dt>`}),`와 `,(0,u.jsx)(`code`,{children:`<dd>`}),`만 포함해야 합니다.`]}),(0,u.jsxs)(`li`,{children:[(0,u.jsx)(`code`,{children:`<dt>`}),`와 `,(0,u.jsx)(`code`,{children:`<dd>`}),`는 반드시 짝을 이루어야 하며, 단독으로 사용해서는 안 됩니다.`]})]})]}),(0,u.jsx)(`aside`,{className:`browser_support mt_xxl`,"data-tit":`dl`,children:(0,u.jsxs)(`ul`,{children:[(0,u.jsx)(`li`,{className:`ie`,children:`지원`}),(0,u.jsx)(`li`,{className:`edge`,children:`지원`}),(0,u.jsx)(`li`,{className:`chrome`,children:`지원`}),(0,u.jsx)(`li`,{className:`firefox`,children:`1.0`}),(0,u.jsx)(`li`,{className:`opera`,children:`지원`}),(0,u.jsx)(`li`,{className:`safari`,children:`지원`})]})}),(0,u.jsxs)(`figure`,{className:`img_figure mt_l`,children:[(0,u.jsx)(`img`,{src:o.HTML+`/04_html_06.png`,alt:`dl 요소`}),(0,u.jsx)(`figcaption`,{children:`dl 요소`})]})]})}export{h as default,c as t};
