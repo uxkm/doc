@@ -9,3 +9,4 @@ images/.DS_Store
 images/a11y_tech/.DS_Store
 code_samples/.DS_Store
 *.DS_Store
+.DS_Store*

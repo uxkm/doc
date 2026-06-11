@@ -1,0 +1,1 @@
+import{r as e}from"./rolldown-runtime-D8OAEfa_.js";import{n as t}from"./editor-vendor-B43TTzmv.js";var n=e({default:()=>i}),r=t();function i(){return(0,r.jsx)(r.Fragment,{children:(0,r.jsx)(`blockquote`,{className:`uk_note mt_xxl`,role:`note`,children:(0,r.jsx)(`p`,{children:`기존 Nunjucks 문서를 React 페이지로 이관한 기본 파일입니다.`})})})}export{i as default,n as t};
