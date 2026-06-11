@@ -1,12 +1,22 @@
+# Sass Cache
 .sass-cache/
+
+# Source Maps
 *.css.map
 *.sass.map
 *.scss.map
-*/.DS_Store
+
+# macOS
 .DS_Store
-code_samples/.DS_Store
-images/.DS_Store
-images/a11y_tech/.DS_Store
-code_samples/.DS_Store
-*.DS_Store
-.DS_Store*
+
+# Node
+node_modules/
+
+# Build
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
