@@ -1,0 +1,1 @@
+function e(e){if(!e)return;let t=e.getAttribute(`aria-expanded`)===`true`;e.setAttribute(`aria-expanded`,String(!t));let n=e.getAttribute(`aria-controls`),r=e.closest(`section`)??e.parentElement,i=[];if(n){let e=document.getElementById(n);e&&(i=[e])}i.length===0&&r&&(i=[...r.querySelectorAll(`.toggleContent`)]),i.forEach(e=>{e.hidden=t})}export{e as t};
