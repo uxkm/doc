@@ -1,1 +1,0 @@
-function e(){let e=`https://doc.uxkm.io`?.trim();return e?e.replace(/\/$/,``):typeof window<`u`&&window.location?.origin?window.location.origin:`https://uxkm.io`}export{e as t};

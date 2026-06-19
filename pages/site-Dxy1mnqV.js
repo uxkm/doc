@@ -1,0 +1,1 @@
+function e(){let e=`https://doc.uxkm.io`?.trim();return e?e.replace(/\/$/,``):typeof window<`u`&&window.location?.origin?window.location.origin:`https://doc.uxkm.io`}var t=`/images/og_image.png`;function n(){return`${e()}${t}`}export{e as n,n as t};
